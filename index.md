@@ -1,5 +1,5 @@
 ---
-title: New site, who this.
+title: For one day.
 author: Someone on Earth
 description: newb, trying to survive in cruel world,and very poor
 ---
